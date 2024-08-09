@@ -1,0 +1,7 @@
+{
+  "name": "ease_pagina_administrador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
